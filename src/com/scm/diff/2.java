@@ -14,6 +14,7 @@ public class diff {
 		if(args.length < 1){
 			System.out.println("Must Argument ISID..");
 			System.exit(1);
+			
 		}
 		
 		int ISID = Integer.valueOf(args[0]);
