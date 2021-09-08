@@ -1,2 +1,1 @@
-# diffsource
-diffsource
+"# MyProject" 
